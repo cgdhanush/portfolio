@@ -3,7 +3,6 @@ export const resume = {
   role: "Cybersecurity Analyst | Full Stack Developer | Fresher",
   location: "Bengaluru, India",
   email: "dhanushcg100@gmail.com",
-  phone: "08618160189",
   github: "https://github.com/cgdhanush",
   linkedin: "https://www.linkedin.com/in/dhanush-c-g",
 
@@ -14,7 +13,7 @@ export const resume = {
     {
       role: "Cyber Security Intern",
       company: "Rooman Technologies",
-      duration: "Feb 2025 - May 2025",
+      duration: "Feb 2026 - May 2026",
       points: [
         "Worked on SIEM concepts, malware analysis, and security monitoring",
         "Performed vulnerability analysis in simulated environments",
@@ -88,7 +87,14 @@ export const resume = {
       "Threat Detection",
       "Cloud Security",
     ],
-    development: ["Java", "Python", "TypeScript", "React", "Spring Boot", "FastAPI"],
+    development: [
+      "Java",
+      "Python",
+      "TypeScript",
+      "React",
+      "Spring Boot",
+      "FastAPI",
+    ],
     tools: ["Git", "Docker", "AWS", "MongoDB", "MySQL"],
     cs: ["DSA", "OOP", "DBMS"],
   },
