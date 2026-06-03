@@ -1,9 +1,10 @@
+import Hero from "./components/Hero";
 
 function App() {
 
   return (
     <>
-      <h1>Hello from CG</h1>
+      <Hero />
     </>
   )
 }
