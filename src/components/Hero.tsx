@@ -91,7 +91,7 @@ const Hero = () => {
               textShadow: "0 0 20px rgba(0,255,255,0.6)",
             }}
           >
-            Hi, I'm Dhanush
+            Hi, I'm Dhanush C G
           </Typography>
 
           <Typography
